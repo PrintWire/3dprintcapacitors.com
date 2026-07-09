@@ -12,7 +12,7 @@ title = "3D Print Capacitors"
 [params]
 siteName      = "3D Print Capacitors"
 logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">CAPACITORS</span>'
-ogImage       = "/images/03_antenna.png"
+ogImage       = "/images/p01_cap_array.png"
 tagline       = "Additive manufacturing of capacitors, sensors, and passive electronic components for next-generation flexible and embedded electronics."
 description   = "3D Print Capacitors covers additive electronics — printed capacitors, inductors, and passive components for flexible electronics, wearables, and embedded circuit manufacturing."
 keywords      = "3D printed capacitors, printed electronics, additive electronics, flexible capacitor, printed inductor, embedded electronics AM"
